@@ -1,0 +1,73 @@
+#banner {
+    width: 100%;
+    background-image: url(images/head-in-hands-768x511.jpeg);
+    height: 405px;
+    background-position: center;
+}
+
+#banner h1 {
+    text-align: center;
+    padding: 150px;
+    margin: auto;
+    font-size: 100px;
+    opacity: 0.75;
+    color: black;
+    
+}
+
+
+ul.topnav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #3B444B;
+}
+
+.topnav li {
+  display: inline;
+  float: left;
+}
+
+.topnav li.right {
+  float: right;
+}
+
+.topnav li a {
+  display: block;
+  color: white;
+  padding: 15px 15px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.topnav li a:hover {
+    background-color: black;
+}
+
+.main-content {
+    background-color: whitesmoke;
+    margin: 20px;
+    padding: 30px;
+    border-radius: 15px;
+}
+
+.footer {
+    width: auto;
+    height: 20px;
+    background-color: #3B444B;
+    color: white;
+    font-size: 15px;
+    border-radius: 5px;
+    margin: 3px;
+}
+    
+/* Symptoms .css */
+
+.mania-style li {
+    margin-top: 5px;
+}
+
+.depressed-style li {
+    margin-top: 5px;
+}
